@@ -536,3 +536,4 @@ PS. Additionally, WebRTC will try to use the 8555 UDP port to transmit encrypted
 **Snapshots to Telegram**
 
 [read more](https://github.com/AlexxIT/go2rtc/wiki/Snapshot-to-Telegram)
+
